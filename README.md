@@ -2,7 +2,7 @@
 
   
 
-![p]"C:\Users\Teena Carolin\Desktop\IBM\Web Phishing.jpg"
+![p](https://user-images.githubusercontent.com/114014205/201517286-55a57d15-9434-4f2c-9bb1-335e2cf9f9f1.jpg)
   
 
 ## What is phishing? 
