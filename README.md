@@ -2,8 +2,8 @@
 
   
 
-![p]![image](https://user-images.githubusercontent.com/91942308/202438879-f9b879cd-56b4-4dc2-affd-9e92486bbe37.png)
-
+![p]! [image](https://user-images.githubusercontent.com/91942308/202438879-f9b879cd-56b4-4dc2-affd-9e92486bbe37.png)
+ 
 
   
 
@@ -109,6 +109,8 @@ Whaling
 
         • Sprint 4 
 
-###  Final Deliverables 
+###  Final Deliverables
+        
+        • Code
 
  
