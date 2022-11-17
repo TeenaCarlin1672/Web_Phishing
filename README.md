@@ -1,8 +1,10 @@
 <h1 align="center">Web Phishing Detection</h1> 
 
   
+<p align="center">
+    <img src='https://user-images.githubusercontent.com/91942308/202438879-f9b879cd-56b4-4dc2-affd-9e92486bbe37.png'>
+</p>
 
-![p align="center"](https://user-images.githubusercontent.com/91942308/202438879-f9b879cd-56b4-4dc2-affd-9e92486bbe37.png)
  
 
   
