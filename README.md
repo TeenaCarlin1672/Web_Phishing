@@ -2,8 +2,7 @@
 
   
 
-![p]https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fphishing&psig=AOvVaw3B6B_KiefH2QzzOWItN37g&ust=1668770306886000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCUo_2LtfsCFQAAAAAdAAAAABAE 
-
+![p]"C:\Users\Teena Carolin\Desktop\IBM\Web Phishing.jpg"
   
 
 ## What is phishing? 
