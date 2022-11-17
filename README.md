@@ -2,7 +2,7 @@
 
   
 
-![p](https://user-images.githubusercontent.com/114014205/201517286-55a57d15-9434-4f2c-9bb1-335e2cf9f9f1.jpg)
+![p]![image](https://user-images.githubusercontent.com/91942308/202438879-f9b879cd-56b4-4dc2-affd-9e92486bbe37.png)
   
 
 ## What is phishing? 
@@ -48,10 +48,6 @@ Whaling
         Team Member 2- Kavya S
         Team Member 3- Kuchala SaiRohitha
         
-
-  
-
-  
 
 ## Tasks: 
 
